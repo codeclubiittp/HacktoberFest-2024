@@ -12,7 +12,7 @@ This repository is dedicated to those who are new to open source and want to par
 2. **Clone the Forked Repository:**
    - Clone it to your local machine using:
      ```bash
-     git clone https://github.com/your-username/repository-name.git
+     git clone https://github.com/codeclubiittp/HacktoberFest-2024.git
      ```
 
 3. **Make Changes:**
