@@ -38,3 +38,9 @@ This repository is dedicated to those who are new to open source and want to par
 ## Need Help? 🤔
 - If you are not sure how to contribute, check out the `guidelines.md` for detailed instructions.
 
+## Our Top Contributors 
+
+<p align="center"><a href="https://github.com/codeclubiittp/HacktoberFest-2024/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeclubiittp/Hacktoberfest-2024" max={1000} columns={100} anon={1}/>
+</a>
+   </p>
