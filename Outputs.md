@@ -1,6 +1,6 @@
 # Output Values
 
-Name: [Your Name]
-Values: a+b=[value], a-b=[value], a*b=[value], a/b=[value];
-Date: [Current Date]
+Name: Abhi
+Values: a+b=c, a-b=d, a*b=e, a/b=f;
+Date: 04-10-2024
 
