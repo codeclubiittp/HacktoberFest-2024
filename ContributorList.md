@@ -16,5 +16,5 @@ GitHub UserId: [https://github.com/username]
 
 List of Contributors to this project:
 
-FullName: [Abhi Ram]
-GitHub UserId: [https://github.com/cruiz24]
+FullName: Abhi Ram
+GitHub UserId: https://github.com/cruiz24
