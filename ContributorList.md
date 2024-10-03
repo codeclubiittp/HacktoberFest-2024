@@ -7,8 +7,8 @@ This document contains a list of contributors to the project. Thank you for your
 Follow the following format while adding your information.
 
 ```
-FullName: Abhi Ram
-GitHub UserId: [https://github.com/cruiz24]  
+FullName: [Full Name]
+GitHub UserId: [https://github.com/username]  
 
 ```
 
@@ -16,4 +16,5 @@ GitHub UserId: [https://github.com/cruiz24]
 
 List of Contributors to this project:
 
-
+FullName: [Abhi Ram]
+GitHub UserId: [https://github.com/cruiz24]
