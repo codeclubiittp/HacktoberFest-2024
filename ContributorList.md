@@ -16,4 +16,5 @@ GitHub UserId: [https://github.com/username]
 
 List of Contributors to this project:
 
-
+FullName: Ankit Sinha
+GitHub UserId: https://github.com/Quantum-Codes
