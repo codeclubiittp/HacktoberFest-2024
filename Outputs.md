@@ -25,3 +25,7 @@ Name: Arup Biswas
 Values: a+b=25, a-b=-1, a*b=156, a/b=0.923076923077;
 Date: 08-10-2024
 
+Name: Arth Patel
+Values: a+b=25, a-b=-1, a*b=156, a/b=0.923076923077;
+Date: 08-10-2024
+
