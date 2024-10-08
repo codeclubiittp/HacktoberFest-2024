@@ -12,6 +12,11 @@ Name: Akilesh P
 Values: a+b=[25], a-b=[-1], a\*b=[156], a/b=[0.9230769];
 Date: [8-10-24]
 
+Name: Dhyanam Janardhana
+Values: a+b=[25], a-b=[-1], a\*b=[156], a/b=[0.9230769];
+Date: [8-10-24]
+
 Name: Arup Biswas
 Values: a+b=25, a-b=-1, a*b=156, a/b=0.923076923077;
 Date: 08-10-2024
+
