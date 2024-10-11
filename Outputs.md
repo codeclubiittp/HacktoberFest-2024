@@ -29,3 +29,7 @@ Name: Arth Patel
 Values: a+b=25, a-b=-1, a*b=156, a/b=0.923076923077;
 Date: 08-10-2024
 
+Name: Dimas Wahyu Utomo
+Values: a+b=[25], a-b=[-1], a\*b=[156], a/b=[0.9230769];
+Date: [11-10-24]
+
