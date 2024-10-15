@@ -42,6 +42,16 @@ Name: Ambaliya Shankheshkumar
 Values: a+b=25, a-b=-1, a*b=156, a/b=0.9230769230;
 Date: 12th-October-2024
 
+Name: Nitish Sharma
+Values: a+b=25, a-b=-1, a*b=156, a/b=0.9230769230;
+Date: 13th-October-2024
+
+Name: [Khushi_Dadwal]
+Values: a+b=[25], a-b=[-1], a\*b=[156], a/b=[0.9230769];
+Date: [14-10-24]
+
 Name: Arnab Boro
 Values: a+b=69, a-b=-21, a*b=1080, a/b=0.53333333;
 Date: 14th-October-2024
+
+
