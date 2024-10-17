@@ -54,8 +54,7 @@ Name: Arnab Boro
 Values: a+b=69, a-b=-21, a*b=1080, a/b=0.53333333;
 Date: 14th-October-2024
 
-FullName: Samriddhi gupta  
-GitHub UserId: https://github.com/sg6724
+Full Name: Samriddhi gupta 
 Values : a+b = 25 , a-b = -1 , a*b = 156 , a/b = 0.92307692307
 Date: 17-10-24
 
