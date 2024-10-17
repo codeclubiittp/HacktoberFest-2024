@@ -58,4 +58,8 @@ Full Name: Samriddhi gupta
 Values : a+b = 25 , a-b = -1 , a*b = 156 , a/b = 0.92307692307
 Date: 17-10-24
 
+Full Name: Athar Ramzan
+Values : a+b=20, a-b = 2 , a*b = 99 , a/b = 1.22222222
+Date: 17-10-24
+
 
