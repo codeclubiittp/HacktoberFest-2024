@@ -61,3 +61,7 @@ Date: 17-10-24
 Name: Gourav Makode
 Values: a+b= 25, a-b= -1, a*b= 156, a/b= 0.9230769230769230;
 Date: 18-10-2024
+
+Name: Harshithapalamani
+Values: a+b= 25, a-b= -1, a*b= 156, a/b= 0.9230769230769230;
+Date: 18-10-2024
