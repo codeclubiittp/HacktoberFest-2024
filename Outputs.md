@@ -69,3 +69,7 @@ Date: 18-10-2024
 Name: Viramgama Jaimin
 Values: a+b=25, a-b=-1, a*b=156, a/b=0.923;
 Date: 19th-October-2024
+
+Name: Ambaliya Shankheshkumar
+Values: a+b=232, a-b=-14, a*b=13407, a/b=0.88617886;
+Date: 19th-October-2024
