@@ -65,3 +65,7 @@ Date: 18-10-2024
 Name: Harshitha Palamani
 Values: a + b = 25, a - b = -1, a * b = 156, a / b ≈ 0.9231, a % b = 12, a ** b = 106993205379072;
 Date: 18-10-2024
+
+Name: Viramgama Jaimin
+Values: a+b=25, a-b=-1, a*b=156, a/b=0.923;
+Date: 19th-October-2024
