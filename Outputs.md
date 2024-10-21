@@ -83,3 +83,7 @@ Date: 19-10-2024
 Name: Sarang Mittal
 Values: a+b=232, a-b=-14, a*b=13407, a/b=0.8861789;
 Date: 19/10/2024
+
+Name: Ankit Sinha
+Values: a+b=232, a-b=-14, a*b=13407, a/b=0.8861789;
+Date: 21/10/2024
