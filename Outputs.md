@@ -99,3 +99,7 @@ Date: 21/10/2024
 Name: Shivesh Singh 
 Values: a+b=232, a-b=-14, a*b=13407, a/b=0.8861789; 
 Date: 21/10/2024
+
+Name: Sarang Mittal
+Values: a+b=46, a-b=-2, a*b=528, a/b=0.916667;
+Date: 24/10/2024
