@@ -2,9 +2,9 @@
 
 This file will contain two values: `a` and `b`.
 
-a = 109
-b = 123
+a = 22
+b = 24
 
-Latest Update : 19th October 2024
+Latest Update : 24th October 2024
 
 
