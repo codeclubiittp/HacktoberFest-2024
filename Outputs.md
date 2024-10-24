@@ -99,3 +99,7 @@ Date: 21/10/2024
 Name: Shivesh Singh 
 Values: a+b=232, a-b=-14, a*b=13407, a/b=0.8861789; 
 Date: 21/10/2024
+
+Name: Om Sharma
+Values: a+b=25, a-b=-1, a\*b=156, a/b=0.923076923077;
+Date :24/10/2024
