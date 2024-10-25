@@ -107,3 +107,7 @@ Date: 24/10/2024
 Name: Ambaliya Shankheshkumar
 Values: a+b=46, a-b=-2, a*b=528, a/b=0.916666666667;
 Date: 24th-October-2024
+
+Name: Ankit Sinha
+Values: a+b=46, a-b=-2, a*b=528, a/b=0.91666667;
+Date: 25/10/2024
