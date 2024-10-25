@@ -111,3 +111,6 @@ Date: 24th-October-2024
 Name: Ankit Sinha
 Values: a+b=46, a-b=-2, a*b=528, a/b=0.91666667;
 Date: 25/10/2024
+
+Name: Dhruv Pokhriyal
+Values: a+b=46, a-b=-2, a*b=528, a/b=0.91666667;
