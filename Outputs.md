@@ -120,5 +120,5 @@ Values: a+b=46, a-b=-2, a*b=528, a/b=0.916666666667;
 Date: 27th-October-2024
 
 Name: Aparna 
-Values: a+b=[25], a-b=[-1], a\*b=[156], a/b=[0.9230769];
-Date: [27-10-24]
+Values: a+b=250, a-b=-100, a*b=13125, a/b=0.42857142857;
+Date: 28-October-2024
