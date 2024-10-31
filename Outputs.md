@@ -122,3 +122,7 @@ Date: 27th-October-2024
 Name: Aparna 
 Values: a+b=46, a-b=-2, a*b=528, a/b=0.916666666667;
 Date: 28-October-2024
+
+Name: Arup Biswas 
+Values: a+b=46, a-b=-2, a*b=528, a/b=0.916666666667;
+Date: 31-October-2024
