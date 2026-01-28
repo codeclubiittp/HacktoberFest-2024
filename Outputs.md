@@ -80,6 +80,12 @@ Name: Arth Patel
 Values: a+b=232, a-b=-14, a*b=13407, a/b=0.88;
 Date: 19-10-2024
 
+
+Name: Jaya Sandeep N
+Values: a+b=[25], a-b=[-1], a\*b=[156], a/b=[0.9230769];
+Date: [28-01-26]
+
+
 Name: Sarang Mittal
 Values: a+b=232, a-b=-14, a*b=13407, a/b=0.8861789;
 Date: 19/10/2024
