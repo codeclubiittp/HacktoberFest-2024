@@ -1,8 +1,8 @@
 {
-   collaborators: [
+   "collaborators": [
     {
-        Name: "anirudh",
-        RNo: "cs23b008",
-    },
+        "Name": "anirudh",
+        "RNo": "cs23b008"
+    }
   ]
 }
